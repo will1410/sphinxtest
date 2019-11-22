@@ -1,0 +1,25 @@
+.. Sphinx test documentation master file, created by
+   sphinx-quickstart on Tue Nov 19 15:44:12 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Sphinx test's documentation!
+=======================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+  check_in
+  check_out
+  checkout_notes
+  fast_cataloging
+  renew
+  set_library
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
